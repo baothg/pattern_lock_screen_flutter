@@ -108,3 +108,7 @@ _onPanEnd(DragEndDetails event) {
 ![Pattern lock screen with Flutter](https://miro.medium.com/max/1200/1*ipMbrj5D6t1ak0kRNp2RyQ.gif)
 
 It seems quite easy, we just listed the important part of the article. For a better understanding, please refer to my entire project here.
+
+- Youtube: https://www.youtube.com/channel/UC_5i-LcCRuyF7Nuk7Uo6N9g
+- Twitter: https://twitter.com/baobao1110mn
+- Medium: https://medium.com/@baobao1996mn
